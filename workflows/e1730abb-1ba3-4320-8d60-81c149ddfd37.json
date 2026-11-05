@@ -3,7 +3,7 @@
   "description": "",
   "versions": [
     {
-      "version_number": 2,
+      "version_number": 1,
       "status": "published",
       "configuration": {
         "steps": [
@@ -28,8 +28,8 @@
         }
       },
       "comment": null,
-      "created_at": "2026-11-03T13:22:52.303164+00:00",
-      "published_at": "2026-11-03T13:22:52.943559+00:00"
+      "created_at": "2026-10-20T19:25:55.624385+00:00",
+      "published_at": "2026-10-20T19:25:57.065723+00:00"
     }
   ]
 }
